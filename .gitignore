@@ -1,0 +1,6 @@
+ignore.css
+scribt.js
+*.ignore.text
+log*
+
+directory /
